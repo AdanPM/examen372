@@ -23,7 +23,7 @@
 - [x] Crear un script con el nombre. *`"create.sh"`*
 - [x] Colocar el shebang dentro del script desde la terminal: *`"#! /bin/bash"`*
 - [x] Inicializa un repositorio vacio de git.
-- [ ] Crea un commit inicial con el mensaje *`"Initial commit, script added"`* (el commit debe contener la version inicial del script).
+- [x] Crea un commit inicial con el mensaje *`"Initial commit, script added"`* (el commit debe contener la version inicial del script).
 ---
 
 ### Instrucciones dentro del script `create.sh` 🔡:
@@ -150,12 +150,12 @@
 ---
 - [x] Una vez completado el script ejecutarlo para validar que haga lo antes pedido: `./create.sh`
 - [x] Mover este archivo `examen372.md` a la carpeta **`examen372`**
-- [ ] Renombrar el archivo `examen372.md` a README.md con la terminal *`"mv"`*
-- [ ] Registrar un tercer commit con el mensaje *`"Third commit, add README.md and final script updated"`*
-- [ ] Guardar el historial de sus comandos: *`history > history.txt`*
-- [ ] Registrar el último commit agregando el archivo del historial con el mensaje *`"Fourth commit, command history added"`*
-- [ ] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen372`*
-- [ ] Subir su carpeta al repositorio remoto con su famosisimo: *`git push`* 🔥👀
+- [x] Renombrar el archivo `examen372.md` a README.md con la terminal *`"mv"`*
+- [x] Registrar un tercer commit con el mensaje *`"Third commit, add README.md and final script updated"`*
+- [x] Guardar el historial de sus comandos: *`history > history.txt`*
+- [x] Registrar el último commit agregando el archivo del historial con el mensaje *`"Fourth commit, command history added"`*
+- [x] Crear un repositorio remoto en sus cuentas de GITHUB con el nombre *`examen372`*
+- [x] Subir su carpeta al repositorio remoto con su famosisimo: *`git push`* 🔥👀
 
 ---
 
