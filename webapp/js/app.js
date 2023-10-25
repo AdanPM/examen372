@@ -1,11 +1,11 @@
 // Add envent click to image
-const content = document.getElementById("content");
-const cheemsImg = document.getElementById("cheems-img");
-const h1 = document.createElement("h1");
-h1.textContent = "¡Felicidades Cheems 😭!";
+const content = document.getElementById('content');
+const cheemsImg = document.getElementById('cheems-img');
+const h1 = document.createElement('h1');
+h1.textContent = '¡Felicidades Cheems 😭!';
 
-cheemsImg.addEventListener("click", function() {
-    cheemsImg.style.display = "none"; // Hide image
+cheemsImg.addEventListener('click', function() {
+    cheemsImg.style.display = 'none'; // Hide image
     content.appendChild(h1); // Add h1 element
     explode();
     
