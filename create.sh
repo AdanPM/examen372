@@ -44,7 +44,14 @@ read -p "Introduce la cantidad de archivos a crear:" numfiles
 tree ./
 
 
+mv style.css ./css
+mv file*.txt ./docs/text
+mv main.py ./docs/python
+mv app.js ./js
+mv meme.jpg ./img
 
+#cmd //c tree //F ./
+tree ./
 
 
 
