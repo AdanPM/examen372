@@ -1,0 +1,28 @@
+    1  cd ~
+    2  mkdir examen372
+    3  cd examen372/
+    4  touch create.sh
+    5  echo "#! /bin/bash > create.sh
+"
+    6  echo "#! /bin/bash" > create.sh
+    7  git init
+    8  git status
+    9  git add create.sh 
+   10  git commit -m "Initial commit, script added"
+   11  code create.sh 
+   12  git status
+   13  git add create.sh 
+   14  git commit -m "Second commit, structure created"
+   15  ls
+   16  git mv examen372.md README.md
+   17  mv examen372.md README.md
+   18  ls
+   19  ./create.sh
+   20  ls
+   21  ./create.sh
+   22  ls
+   23  git status
+   24  git add .
+   25  git commit -m "Third commit, add README.md and final script"
+   26  history
+   27  history > history.txt
